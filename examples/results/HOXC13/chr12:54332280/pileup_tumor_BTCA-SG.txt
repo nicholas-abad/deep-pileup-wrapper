@@ -1,0 +1,12 @@
+12	54332280	N	80	C$C$cCCcCccCcccCccCccccCCCccCcCcCCCcCCCcc$CCCc$CCcccCCcccccCccccCcCCcCcccccCcccCccC^]c	!g@#!A!#ADJGJgHFAAgfDDD!!DADEBI=Jg!J?#DD#################D#########@I##I@#D?A:C!
+12	54332280	N	72	cccccccccccCCCcCcCCCCCCCccCCCCCCCC$CCcCcCc$cCCcCCccCCcCCCccccccCcCcCCCCccC	F8IIJ#I)GJIC?#GDHDCCAA>A#B7IFFDI#####?###############BG#D##########FD#BD
+12	54332280	N	70	C$cCcCcCCCCcccCccCCcccccCcccccCc$cccC$cccc$Cc$c$cCCcccccCccCccCccCcccCcCcCCC	CFDG_IC?!D<DDDD#C?BB;0DI!Z#D##########G#I######D#########B;####F#FBF?C
+12	54332280	N	67	cccccCCcCCcCCCCcccCcccCC$cc$c$ccCCc$cccCCCCCCCcccCccCccccCCCcCCCcCcCCCC	FAH#A!!#D!EDCDDDDgCB]B#?#@D####I#####C###;#########f6##D#?####IHF>C
+12	54332280	N	110	C$C$CcCcCCCCCCccCCcccCCCcCGCccccCccCCcCCCCCccCcccCcCCccCccc$cCcCCCccCCC$C$ccCccccccccCCCccCcCCCccccCCcccCcccCcCCCCc	!k!CmFA!gZ!!I!9DGEID!VH!!>!FDD>D?!:BC)C@@BgCD!;!iCG&YG!`&;F)(((8A++(9&&(@(D(0)M)+3(0)(DG3(23&(((('!Fg7eFgDFF(_
+12	54332280	N	96	ccCCCccCCCCccCcCCCCCccCCcCCCccccccCcCccCcCcC$CcCc$CCC$Cc$CCCCcCCcCcCccccCcCCccCCcCCcCCCcCcCcccCCCCCC	BFCDfDHCDgCJI(J?gDCfHF;g!_:DDDDDBD(!G!!?>39(9!+?+(+(>HD+(>93&G'+'&0(+,+(I)+9&+>!+(9B()+;('+EGFH(
+12	54332280	N	57	CccCccCCcCcCcCCcCCCCCccCccCCcccCCCcccc$ccCccccccCcCCCCCcc^]c	DDF#EA#DJCGDF#DD>!#C5i0#@#?IB!#mIGB3##D######B###I#AHD#>#
+12	54332280	N	69	c$CCCcCCCcCcCcCCCCCcCCCCCccCcCCccccccTCCccCc$CcCccCccccCCcCCCCCCCCccccc	B!_AGdDDJgID#!DBD!DCEd#!;#HDJ8g[!!!######J######=##############H##!bk
+12	54332280	N	77	ccccCcCCCccCCcCCCcCccccccccccCccCccccccccccC$CccCcCCCCcccccCccccCCCccCCCCCCCcc	@@DF\6gf!EHDDH!CDA#JHBDDDDBBDCD>#D!BdgBB@##############@###C############J:A!!
+12	54332280	N	82	c$cCcCCCccCCccCCcCcCCccCCccCCcCccccc$ccCCc$cCccCCcc$cccCCCCcccCcCccCccccccCccCcCCccCC^]C	CFDHbdgJJDDGIf!IDHD+!De>B:@CDJ!!!<(<&(+()(B!(+FG0(;;>(5(5&+B(=':((IBC+((3(-DF9gCBC
+12	54332280	N	80	cCcCcccCCccCCCcCCcCCcccCccCccCCC$cCccCCcCCCCcC$CcCCccccCccccCcccCccCcCCccCccccCCCC	C!H!HA?#!JGgDDGCAFCCDgD;!DHD#?H##)###F######?###A#######_###I##########H###fFFCC
+12	54332280	N	106	c$CcccCccccCCCCCccCCcCccCccCCCccccCcCCCcCccccCcCcccccCcCCccc$cCCCCCCcCcCcccCCcCCccCCCcccccCCCcCcCccCcCcCC^]C^]C^]C	@!FFFdFFGH!DDCgJJ!bIDHi9ADD!CBDD#C!;#CBAD@DDD!!cD##DHDIJ!###F###J############C########I######gH#BFcCb@?C@B

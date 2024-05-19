@@ -1,0 +1,12 @@
+12	54332280	N	74	CCCCccccCccCcCcCcCcCCcccCCCCccCCCcccCc$c$CcCCccCccCCcCCCccccccCCCccCcccccc^]C^]C	Dd`eHGJDXJ6CJ!CD8#!>?!DDDDFD5DJB>##!#5>##@D######D####B###D##?#####9!DbDC?
+12	54332280	N	94	CcCCCccCCcCCCcCCcCCCCcCccCccccccCcCCCccccCCcCcCCc$ccc$C$Ccc$CCCCCCcCCcCcccccCCcCccccCCccTCCccCCcc^]c	DFD9eGAC9JDCCADgH##D!D#DDDB\DDBD;#HG^9BBBG#BD@##D##############B###C########D########?H#!F+!#!
+12	54332280	N	76	CcccccccCcccCCCccCcccCCcCCCcccCcCCcCccC$cCccc$CCCCcCCccccCccccccccCCcccccCCcC^]c	ZCFAFHGJgJG)D#CI>DJFFC#ADC,DBDADjF#F#<3####C########D######D#######!#!D@D!C#
+12	54332280	N	80	c$CcCcCcccccCcCCcCCCCcCCcCccaCcccCcCCcCCCCcccccCcccCc$cCC$CcCCcCccCCccCcCcCccCcCC^]C^]c	B"FfD#HHHH:%ID>J!Cd%HD!!iCD!>D<#DBC@!EDHH!#D!DJDc#,###IA##################H!B#CE
+12	54332280	N	90	C$CCCCCcCCCCCcccCCcccCCcCCCCCccCCCcCcCcccCcCCccCCcC$C$cC$Cc$CCc$CcCCc$ccCCccCccCcCcCccCCCCcCcCccc	!VV3A!FCcC!AJJI9ZBIFDRF?,AD!3cC?CD!;CD!BIB;!f!8Hg9(=?.8((<(0(++(03-0!+&'3!('9)&(IHF!Ff+h[&
+12	54332280	N	134	C$C$CcCCcCCccCCCccCCcCCccCccCcCcccCCcCCCCCCccccCCCcCCCcCccCCcCCcc$c$ccc$Cc$CCc$CCCCcCCcCCCCcCCCCCCCcccccCC*cCcCccccccCCcCCCccCCCcCCcCcCCcCCc^-C	!D!F!AFC!HJ?D!00CC;CDIBDH?!F9D<D>>DDCCD5-Da@BCAED>DFgFDD@JeFG?.(D&A(8(E7I+((>(H(++H(B+(G(;+3&:f),H+(>(&I'&?(D@(+&(9G;G((('(+'+5(JgCCb+
+12	54332280	N	90	C$CCcccCcCCCcCcCCCcCcccccccCCcccccCcccCCCCCcCcc$ccc$CcCCCCccCcCC$ccCCcCcCcCCcccccCCcCcCCcCcccc	CC#GHHDJDCDJ(HCD#DADEFBDDDDCDD'BDFDDD#JGJDDID?<########@######B######>############GJ#HD##B
+12	54332280	N	81	C$cccCcCcCcCccccccCccCCcCcCcCCcccCccCCCCC$CCC$CcCccccC$CCCcCcCCcccCcccCccCcccccCccCcC	!@<BB)!J^J!JD#IJB!#CCDDF?HBECD#DE]######>####D############D#D####g#######D#G!gFeC
+12	54332280	N	80	C$C$c$CCccCCcCccCcCCCccCCCCCcccCCCCCCcCcCCcCCcC$ccCcCCCcCcCCCCccCcCcCCCCcccCCCCccccc	g!?gDHH!CJ3IJdGbgDGD3g!DDB!DCA>;DA!#!8IDHB9#####I#####9A9#B##!####D#####D>#df!f!
+12	54332280	N	145	cCcCcCCccCcccccCCccccccCCcCcCCcCCCccCCcCCCCCccCcCCCccCCc$c$CCCCccc$CcCCCCcC$c$cccCCc$CCccCcccccCcccccCcCcCCccccCCcCCcCCCccCCCccCcccCcCccccCcccCcCCCCCcC	CkD3H!DJJAII<JIDgIIJE!BD!i9EC!D3!g;DCC;hADI-DDCDJJ9g!HJ8?9??(0=G(5(+33(,(0(6(+I+3&:(&!&(@JE5'&7(&((++''&'((J++((+(&63++@&((<'+'9D((J(D\)IgIHGHF!F
+12	54332280	N	89	C$CccccCCCCCcCcCCccCCCCcCcCcCCcCCccCCcCCCCccCCCCcccC$c$C$C$CCccCCccCccCCCcCcCccCccCCCcCcccCCc^]c	!!F#DHggC!bICHD#G;!D#CcABDDDDD?D!!D!!HGFJDB###C####B####'####e##########I#####G9e#VDFFC#D
+12	54332280	N	71	C$c$cCccCccCCcCCcCCCCcCcccCCcccCCcccCCCCCc$ccCCC$CcCccCCCcCccccccCcCcccCCCc	g@BgAGDGJDgICCD!CDDDDADBCE#!g#=!5DGGIF###>#CC9@J###############A#D#F=C!

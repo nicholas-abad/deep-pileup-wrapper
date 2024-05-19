@@ -1,0 +1,10 @@
+12	54332280	N	40	cCCcCCccCccCcCcCCcCccccCc$CcCCC$CCcCccCCCc	@3DF#?JJDEEDF?8?#D;D7DB=#H#########BFFFD
+12	54332280	N	27	CccCccccccccccccCc$CCc$cCccCc	C@H9JDHHFBDD@B>D?##########
+12	54332280	N	32	CCCCcccCCccCCccCcCCccccCCcCcCccc	[g9CBFD#A!BA#!A###H#######HDF##9
+12	54332280	N	36	CccCCcCCcccccCcCC$CCCC$ccCccccccccccCc	#H8C#JD3DDD@B?B###############A####D
+12	54332280	N	31	CCccCCCcCCccc$C$cCccc$CcccccccCcc^]c	DDGJD##DECD>######E##########0#
+12	54332280	N	54	C$CCCccccCCccCccccCCCcCCCCCCcCcCCcCCCcccCccccCCcCccCcc^]c	D!C#CC>DAC7DGDDB#I##############B#####B##########B#@eB
+12	54332280	N	23	cccCCcCCccCCCcccccCcccC	HIH#CBCCDDJ?##B########
+12	54332280	N	41	CCCCccCcCcCcCcCcC$c$cccCcCCcccCccCccccCcccC	9CD?IJCJDFD?DDCD##D####+#####D#########BF
+12	54332280	N	44	c$C$CCCccccCcCCCccccCccc$CcCcc$cccccCccCcCcCCccC	BCCD>J!BB>DCDCDD;BHB@#####E<<####D####>####@
+12	54332280	N	45	ccCCccccCCCccCCcCCcCccCcCCCCCCCCCcCCccCcccCCc	FF#ADBGJ#CDDDD5?DH@BD############G#####D##HAB
