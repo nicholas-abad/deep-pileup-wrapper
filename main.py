@@ -158,7 +158,7 @@ if __name__ == "__main__":
         
         if run_in_dkfz_cluster:            
             _wait_for_running_and_pending_lsf_cluster_jobs(
-                maximum_number_of_jobs = 100,
+                maximum_number_of_jobs = 300,
                 sleep_timer = 10
             )
             
