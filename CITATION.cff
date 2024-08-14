@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you'd like to cite DeepPileup, please use the following citation. However, if you'd like to cite the results, please cite the paper."
+authors:
+  - family-names: Abad
+    given-names: Nicholas
+    orcid: https://orcid.org/0009-0004-8322-564X
+title: "DeepPileup"
+version: 1.0
+identifiers:
+  - type: doi
+    value: https://www.biorxiv.org/content/10.1101/2024.06.03.597231v1
+date-released: 2024-04-24
