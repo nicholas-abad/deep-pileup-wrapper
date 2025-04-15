@@ -2,6 +2,11 @@
 
 This repository contains a pipeline to perform deep pileup analyses on variant positions across tumor and control BAM files and generate summary statistics and visualizations per gene and genomic position. This helps in identifying problematic positions.
 
+## Example
+
+An example of a technically valid genomic position can be seen in (A) whereas a noisy position and potential artifact can seen in (B):
+![](./assets/paper_example.jpg)
+
 ## Overview
 
 The pipeline is designed to work in high-performance computing environments (e.g., DKFZ LSF cluster) and supports automated pileup extraction using `samtools`, downstream aggregation, variant allele frequency (VAF) analysis, and visualization.
@@ -77,19 +82,12 @@ For each genomic position provided:
    - Minor allele frequencies greater than 25%
    - Variant bases observed at least twice
 
-## Example
-
-An example of a technically valid genomic position can be seen in (A) whereas a noisy position and potential artifact can seen in (B):
-![](./assets/paper_example.jpg)
-
 ## Dependencies
 
-- Python packages: `pandas`, `numpy`, `plotly`, `tqdm`
-- External tools: `samtools` (v1.14 or compatible)
-
-## License
-
-MIT License
+- Python 3.11.12
+- Python packages can be downloaded in `requirements.txt`
+- Samtools 1.14 ([https://github.com/samtools/samtools/releases/tag/1.14](https://github.com/samtools/samtools/releases/tag/1.14))
+  - Though later versions exist, this was originally developed using `Samtools 1.14` 
 
 ## Contact
 
